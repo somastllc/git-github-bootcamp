@@ -1,8 +1,8 @@
 # Assignment 1 — Git Basics
 
 - **Name:** Zakaria Kalid Adan
-- **GitHub username:** mrzaakir
-- **Repository URL:** https://github.com/mrzaakir/Git-GitHub-Practice
+- **GitHub username:** zacky-taani
+- **Repository URL:** https://github.com/zacky-taani/Git-GitHub-Practice
 
 ## Confirmation
 

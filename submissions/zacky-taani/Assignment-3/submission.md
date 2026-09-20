@@ -1,9 +1,9 @@
 # Assignment 3 — GitHub Profile
 
 - **Name:** Zakaria Kalid Adan
-- **GitHub username:** mrzaakir
-- **Profile URL:** https://github.com/mrzaakir
-- **Profile README repo URL:** https://github.com/mrzaakir/mrzaakir
+- **GitHub username:** zacky-taani
+- **Profile URL:** https://github.com/zacky-taani
+- **Profile README repo URL:** https://github.com/zacky-taani/zacky-taani
 
 ## Confirmation
 

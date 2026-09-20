@@ -1,9 +1,9 @@
 # Assignment 2 — GitHub Actions
 
 - **Name:** Zakaria Kalid Adan
-- **GitHub username:** mrzaakir
-- **Repository URL:** https://github.com/mrzaakir/Git-GitHub-Practice
-- **Actions run URL:** https://github.com/mrzaakir/Git-GitHub-Practice/actions/runs/30811534782/job/91679195434
+- **GitHub username:** zacky-taani
+- **Repository URL:** https://github.com/zacky-taani/Git-GitHub-Practice
+- **Actions run URL:** https://github.com/zacky-taani/Git-GitHub-Practice/actions/runs/30811534782/job/91679195434
 
 ## Confirmation
 

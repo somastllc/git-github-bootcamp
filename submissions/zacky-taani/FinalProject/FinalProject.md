@@ -1,8 +1,8 @@
 # Final Project — Capstone
 
 - **Name:** Zakaria Kalid Adan
-- **GitHub username:** mrzaakir
-- **Repository URL:** https://github.com/mrzaakir/Real-time-Leaderboard
+- **GitHub username:** zacky-taani
+- **Repository URL:** https://github.com/zacky-taani/Real-time-Leaderboard
 
 
 ## Confirmation
