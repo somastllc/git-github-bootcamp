@@ -1,6 +1,6 @@
 # Assignment 3 — GitHub Profile
 
-- **Name:** Naima sugal Mohamud 
+- **Name:** Nim'o Sugal Mohamud 
 - **GitHub username:** Naima-89
 - **Profile URL:** https://github.com/Naima-89
 - **Profile README repo URL:** https://github.com/Naima-89/Naima-89.git

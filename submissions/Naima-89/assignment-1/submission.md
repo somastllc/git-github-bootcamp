@@ -1,6 +1,6 @@
 # Assignment 1 — Git Basics
 
-- **Name:** Naima Sugal Mohamud
+- **Name:**  Nim'o Sugal Mohamud
 - **GitHub username:** Naima-89
 - **Repository URL:** https://github.com/Naima-89/git-github-practice.git
 ## Confirmation

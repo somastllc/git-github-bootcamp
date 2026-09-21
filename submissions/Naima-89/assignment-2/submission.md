@@ -1,6 +1,6 @@
 # Assignment 2 — GitHub Actions
 
-- **Name:** Naima Sugal Mohamud
+- **Name:** Nim'o Sugal Mohamud
 - **GitHub username:** Naima-89
 - **Repository URL:** https://github.com/Naima-89/git-github-practice.git
 - **Actions run URL:** https://github.com/Naima-89/git-github-practice/actions/runs/30883328407
