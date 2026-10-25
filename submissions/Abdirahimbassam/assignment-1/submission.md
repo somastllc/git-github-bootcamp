@@ -4,7 +4,7 @@
 
 - **Name:** Abdirahim Abdullahi Mukhtar
 - **GitHub username:** Abdirahimbassam
-- **Repository URL:** https://github.com/Abdirahimbassam/goobolabs-git-gitHub-Bootcamp
+- **Repository URL:** 
 
 ## Confirmation
 

@@ -310,7 +310,7 @@ These issues are deliberately small and well-explained, making them the perfect 
 
 ## Your First Open Source Contribution (Encouraged)
 
-> You already open Pull Requests to **this bootcamp repository** when you submit assignments. This exercise is **different**: contribute to a **real open-source project** — especially a **[Goobo Labs](https://github.com/goobo-labs)** repository.
+> You already open Pull Requests to **this bootcamp repository** when you submit assignments. This exercise is **different**: contribute to a **real open-source project** — especially a **[Somast]()** repository.
 
 **Goal:** Make one small contribution outside the bootcamp repo — a docs fix, typo correction, or labeled **`good first issue`**.
 
@@ -320,8 +320,8 @@ This exercise is **encouraged**, not graded like Assignment 1. A merged PR (or a
 
 ### Steps
 
-1. **Browse Goobo Labs projects**
-   - Visit **[github.com/goobo-labs](https://github.com/goobo-labs)** (your instructor may suggest specific repos)
+1. **Browse Somast projects**
+   - Visit **[Somast]()** (your instructor may suggest specific repos)
    - Pick a project with an open **`good first issue`**, **`documentation`**, or **`help wanted`** label — or a clear typo in the docs
 
 2. **Claim the work**
@@ -348,7 +348,7 @@ This exercise is **encouraged**, not graded like Assignment 1. A merged PR (or a
    ```
 
 5. **Open a Pull Request to the original repo**
-   - On GitHub, open a PR **from your fork** → **goobo-labs/some-project** (not into your own fork's `main` by mistake)
+   - On GitHub, open a PR **from your fork** → **somastllc/some-project** (not into your own fork's `main` by mistake)
    - Write a clear title and description
    - Include **`Fixes #N`** if an issue exists
 
@@ -377,7 +377,7 @@ This exercise is **encouraged**, not graded like Assignment 1. A merged PR (or a
 - Link PRs to issues with **`Fixes #N`** so GitHub closes the issue when the PR merges.
 - **Star** to bookmark a repo; **fork** to contribute. **Sync your fork** before branching when the original has changed.
 - The **`good first issue`** label marks beginner-friendly tasks — the perfect place to make your first contribution.
-- The **encouraged exercise** targets a real OSS project (especially Goobo Labs) — separate from assignment PRs to this bootcamp repo.
+- The **encouraged exercise** targets a real OSS project (especially Somast) — separate from assignment PRs to this bootcamp repo.
 - Contributing uses every skill you've learned: fork, clone, branch, commit, push, and pull request.
 
 ---
