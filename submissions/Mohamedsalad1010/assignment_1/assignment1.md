@@ -2,7 +2,7 @@
 
 - **Name:** Mohamed Salad Mohamud
 - **GitHub username:** Mohamedsalad1010
-- **Repository URL:** https://github.com/Mohamedsalad1010/Git-practice-goobo-labs
+- **Repository URL:** 
 
 **NP** ASC ustaad cashirka gadaal kala soo qabsaday cashirka markaan bilaway computer iga cuslaaday maalo dib u dhac igalay github horey uqaatay mentershibka dugsiiye waa laqabsan karaa ustaad marka ustaad waqtiga inuu igu dhaco kabaqaa intaas isii sax inta kle waa soo dhamaystiraa insha Allaah.
 

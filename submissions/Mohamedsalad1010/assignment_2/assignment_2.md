@@ -2,8 +2,8 @@
 
 - **Name:** Mohamed Salad Mohamahud
 - **GitHub username:** Mohamedsalad1010
-- **Repository URL:** https://github.com/Mohamedsalad1010/Git-practice-goobo-labs
-- **Actions run URL:** https://github.com/Mohamedsalad1010/Git-practice-goobo-labs/actions/runs/30890595672/job/91931489629
+- **Repository URL:** 
+- **Actions run URL:** 
 
 ## Confirmation
 

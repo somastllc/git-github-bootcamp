@@ -17,7 +17,7 @@ Use the **same handle** on GitHub, LinkedIn, X, and your portfolio. Search engin
 Profile → **Edit profile** — photo, full name, one-sentence bio, location, website, professional social links. Example bio:
 
 ```text
-Learning Git & GitHub · Building web projects · Goobo Labs bootcamp
+Learning Git & GitHub · Building web projects · Somast bootcamp
 ```
 
 **Pin** up to 6 finished repos (e.g. `git-github-bootcamp`, `git-github-practice`, an OSS contribution).
@@ -35,7 +35,7 @@ Your profile includes a **contribution graph** (green squares) — one square pe
 
 Turn **Activity overview** on. Below the graph you'll see:
 
-- **Organizations and repos** you've contributed to (e.g. `@goobolabs`, bootcamp repos, OSS projects)
+- **Organizations and repos** you've contributed to (e.g. `@somastllc`, bootcamp repos, OSS projects)
 - A **breakdown chart** — typically **Commits**, **Code review**, **Issues**, **Pull requests**
 
 ### Contributions are more than commits
